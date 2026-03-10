@@ -1,8 +1,5 @@
-# Welcome to GitHub Desktop!
 <h1 align="center">Hi 👋, I'm Urko Aguillo Urarte</h1>
-<h3 align="center">A passionate frontend developer from the Basque Country</h3>
-
-- 🌱 I’m currently learning **C**
+<h3 align="center">A passionate game developer from the Basque Country</h3>
 
 - 📫 How to reach me **urkoaguillo@gmail.com**
 
