@@ -3,7 +3,7 @@
 
 <p>Double Degree student in Computer Engineering and Video Game Development at Universidad San Jorge (Zaragoza). Grade average of 9.25/10 with 5 distinction honours.
 
-I move comfortably between code and design: I enjoy prototyping fast to validate ideas and then polishing until the experience feels tight. I have led teams, managed deliverables and mediated conflicts — 10 years as class representative will do that.</p>
+I move comfortably between code and design: I enjoy prototyping fast to validate ideas and then polishing until the experience feels tight. I have led teams, managed deliverables and mediated conflicts, 10 years as class representative will do that.</p>
 
 - 📫 How to reach me:
 -  **urkoaguillo@gmail.com**
