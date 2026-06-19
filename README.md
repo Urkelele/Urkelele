@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Urko Aguillo Urarte</h1>
 <h3 align="center">A passionate game developer from the Basque Country</h3>
 
+<p>Double Degree student in Computer Engineering and Video Game Development at Universidad San Jorge (Zaragoza). Grade average of 9.25/10 with 5 distinction honours.
+
+I move comfortably between code and design: I enjoy prototyping fast to validate ideas and then polishing until the experience feels tight. I have led teams, managed deliverables and mediated conflicts — 10 years as class representative will do that.</p>
+
 - 📫 How to reach me:
 -  **urkoaguillo@gmail.com**
 <p align="left">
